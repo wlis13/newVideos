@@ -2,7 +2,7 @@
   width: 500px;
   border-radius: 15px;
 }
-@media screen and (max-width: 412px) {
+@media screen and (max-width: 420px) {
   body {
     font-family: sans-serif;
     background-color: gray;
@@ -22,7 +22,7 @@
     color: rgb(255, 136, 0);
   }
 
-  .container-section video {
+  .container-section iframe {
     width: 380px;
     border-radius: 15px;
     margin-left: 5px;
